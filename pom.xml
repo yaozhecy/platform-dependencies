@@ -241,6 +241,12 @@
                 <artifactId>reactor-core</artifactId>
                 <version>${reactor.core}</version>
             </dependency>
+
+            <dependency>
+                <groupId>org.apache.rocketmq</groupId>
+                <artifactId>rocketmq-client</artifactId>
+                <version>4.8.0</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 </project>
